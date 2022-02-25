@@ -22,9 +22,9 @@ Example: `1 D0O C0N I0N K0N`
 - K - Killed
 
 #### Hooks
-0 if never hooked, or unknown (killer).
+ - 0 - Never hooked, or unknown (killer).
 
-1 or 2 if hooked.
+ - 1-2 - Hooked.
 
 #### IsObsession
 - O - Obsession
